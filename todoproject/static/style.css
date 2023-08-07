@@ -1,0 +1,16 @@
+. banner{background-color: firebrick;
+   width :100px;
+   height :200px;
+   margin-bottom:50px;
+
+}
+
+. banner-text{
+
+top:100%;
+left:100%;
+position:absolute;
+
+
+}
+
